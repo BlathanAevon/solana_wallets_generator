@@ -34,6 +34,11 @@ python (or python3) -m venv venv
 pip install -r requirements.txt
 ```
 
+7. Set preferable amount of wallets in `main.py`
+   ```python
+   WALLETS_AMOUNT = <number of wallets>
+   ```
+
 ## Run the program
 ```bash
 python main.py
