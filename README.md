@@ -1,4 +1,4 @@
-# chat_summarizer
+# solana_wallets_generator
 
 
 **A simple script to generate solana wallets using either Python or Golang
