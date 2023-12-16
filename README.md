@@ -5,7 +5,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Language-python-blue) ![Static Badge](https://img.shields.io/badge/Language-go-blue)
 
-## Installation:
+## Python Installation:
 
 1. Clone the repository
 ```bash
@@ -43,3 +43,31 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+
+## Golang Installation:
+
+1. Clone the repository
+```bash
+git clone https://github.com/BlathanAevon/solana_wallets_generator.git
+```
+
+3. Go to directory
+     - Windows
+      ```bash
+      cd solana_wallets_generator\golang
+      ```
+    - Linux and MacOS
+      ```bash
+      cd solana_wallets_generator/golang
+      ```
+4. Install dependencies
+```bash
+go mod donwload
+```
+
+## RUN
+```bash
+go run .
+```
+
