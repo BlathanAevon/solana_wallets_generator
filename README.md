@@ -1,7 +1,7 @@
 # solana_wallets_generator
 
 
-**A simple script to generate solana wallets using either Python or Golang
+**A simple script to generate solana wallets using either Python or Golang**
 
 ![Static Badge](https://img.shields.io/badge/Language-python-blue) ![Static Badge](https://img.shields.io/badge/Language-go-blue)
 
