@@ -14,7 +14,11 @@ git clone https://github.com/BlathanAevon/solana_wallets_generator.git
 
 3. Go to directory
 ```bash
-cd solana_wallets_generator
+cd solana_wallets_generator/python
+```
+or (on Windows)
+```bash
+cd solana_wallets_generator\python
 ```
 4. Virtual Environment creation
 ```bash
