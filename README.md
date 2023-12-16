@@ -45,7 +45,7 @@ python main.py
 ```
 
 
-## Golang Installation:
+# Golang Installation:
 
 1. Clone the repository
 ```bash
@@ -63,7 +63,7 @@ git clone https://github.com/BlathanAevon/solana_wallets_generator.git
       ```
 4. Install dependencies
 ```bash
-go mod donwload
+go mod download
 ```
 
 ## RUN
