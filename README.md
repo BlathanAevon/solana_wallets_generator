@@ -1,9 +1,9 @@
 # chat_summarizer
 
 
-**A simple script, to send emails through Dmail.ai, mint Starknet ID, Mint random NFT**
+**A simple script to generate solana wallets using either Python or Golang
 
-![Static Badge](https://img.shields.io/badge/Language-python-blue)
+![Static Badge](https://img.shields.io/badge/Language-python-blue) ![Static Badge](https://img.shields.io/badge/Language-go-blue)
 
 ## Installation:
 
