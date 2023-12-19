@@ -70,6 +70,11 @@ git clone https://github.com/BlathanAevon/solana_wallets_generator.git
 go mod download
 ```
 
+5. Set the amount of wallets in `gen.go`
+   ```go
+   const WALLETSAMOUNT int = <amount>
+   ```
+
 ## RUN
 ```bash
 go run .
